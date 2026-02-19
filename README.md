@@ -43,7 +43,7 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/sreevallliballa
+- GitHub: https://github.com/sreevalliballa
 - LinkedIn: www.linkedin.com/in/sreevallidevanga1325
 
 ---
