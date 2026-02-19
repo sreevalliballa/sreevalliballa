@@ -37,14 +37,14 @@
 
 ## 📈 GitHub Stats
 
-![Sreevalli's GitHub stats](https://github-readme-stats.vercel.app/api?sreevalliballa=your-sreevalliballa&show_icons=true&theme=tokyonight)
+![Sreevalli's GitHub stats](https://github-readme-stats.vercel.app/api?sreevalliballa=sreevalliballa&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/sreevallliballa
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: www.linkedin.com/in/sreevallidevanga1325
 
 ---
 
